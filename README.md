@@ -1,2 +1,2 @@
 Hi, I am Avi Dixit 
-I made different types of websites!
+I make different types of websites!
