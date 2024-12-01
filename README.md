@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [pensionbox-xlone](https://pensionbox-xlone.netlify.app/)
 
-- 🌱 I’m currently learning **js.**
+- 🌱 I’m currently learning **Java script**
 
 - 📫 How to reach me **avi.codesmith@gmail.com**
 
