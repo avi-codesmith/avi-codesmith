@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avi-codesmith" alt="avi-codesmith" /></a> </p>
 
-- 🔭 I’m currently working on [Flipcart-clone](https://flipcart-clone.netlify.app/)
+- 🔭 I’m currently working on [flipcart-clone](https://flipcart-clone.netlify.app/)
 
 - 🌱 I’m currently learning **Java script**
 
