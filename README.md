@@ -1,6 +1,5 @@
 <h1>Hi👋🏻, I'm Avi Dixit</h1>
-# 💫 About Me:
-<br>i am new in code
+💫 About Me: A new bie in developers world.
 
 
 # 💻 Tech Stack:
