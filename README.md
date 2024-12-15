@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Avi Dixit</h1>
-<br>
-<img src="https://github.com/user-attachments/assets/2f523051-fe15-4aa7-bda3-a37e685b9239"/>
-<br>
+
+https://github.com/user-attachments/assets/c558910e-fd9f-419f-826c-b1e3c287530c
+
+
 <h3 align="center">A new-bie in developer's world...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi-codesmith&label=Profile%20views&color=0e75b6&style=flat" alt="avi-codesmith" /> </p>
