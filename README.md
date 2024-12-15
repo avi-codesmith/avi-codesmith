@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avi Dixit</h1>
 <br>
-https://github.com/user-attachments/assets/2f523051-fe15-4aa7-bda3-a37e685b9239
+<img src="https://github.com/user-attachments/assets/2f523051-fe15-4aa7-bda3-a37e685b9239"/>
 <br>
 <h3 align="center">A new-bie in developer's world...</h3>
 
