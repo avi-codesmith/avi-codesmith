@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avi Dixit</h1>
+<h1 align="center">Hi , I'm Avi Dixit</h1>
 
 ![line](https://github.com/user-attachments/assets/cd0bd332-dd98-46a6-ae2e-2608f5d510f9)
 
