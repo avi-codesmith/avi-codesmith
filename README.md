@@ -3,7 +3,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=25&pause=1000&color=19F805F7&center=true&vCenter=true&width=446&lines=Hey%F0%9F%91%8B+there!!+welcome%E2%9C%A8%F0%9F%A4%A9)](https://git.io/typing-svg) -->
 <!--     <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" left="20px"> -->
     
-<img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=45&pause=1000&color=dadada&center=true&vCenter=true&width=900&lines=+Hey%F0%9F%91%8B+there!!+welcome%E2%9C%A8%F0%9F%A4%A9" alt="welcome mssg"/><!--<br>-->
+<img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=45&pause=1000&center=true&vCenter=true&width=900&lines=+Hey%F0%9F%91%8B+there!!+welcome%E2%9C%A8%F0%9F%A4%A9" alt="welcome mssg"/><!--<br>-->
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br> -->
 <!--Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
