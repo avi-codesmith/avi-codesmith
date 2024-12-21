@@ -10,8 +10,8 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/SkAvi/skAvi">
-    <img src="[https://img.shields.io/badge/Profile-Avi%20-19f80582.svg?style=for-the-badge](https://github.com/avi-codesmith)" alt="Avi Profile"> 
+<a href="https://github.com/avi-codesmith">
+    <img src="https://img.shields.io/badge/Profile-Aliya%20-19f80582.svg?style=for-the-badge" alt="Aliya Profile"> 
 </a> 
       <span><img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70" alt="jumping.gift"></span>
  
