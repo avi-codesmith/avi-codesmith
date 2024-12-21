@@ -48,6 +48,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"  width="100%" height="70px" style="margin-top: 20px;">
+<marquee><h2 color="#dadada" style="margin-top: 30px;">Thank You For Visiting</h2></marquee>
     <br>
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" height="20%">
