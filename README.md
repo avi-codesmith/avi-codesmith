@@ -49,6 +49,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"  width="100%" height="70px">
     
-<!--<img src="Thank-you-for-visiting-12-20-2024.gif" alt="thank you hift">-->
-<!--🦶FOOTER--> 
+<img src="Thank-you-for-visiting-12-20-2024.gif" alt="thank you hift">
+🦶FOOTER
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" height="20%">
