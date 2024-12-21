@@ -46,9 +46,7 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi-codesmith&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
-<p align="center">
+
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"  width="100%" height="70px">
-    
-<img src="Thank-you-for-visiting-12-20-2024.gif" alt="thank you hift">
-🦶FOOTER
+    <br>
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" height="20%">
