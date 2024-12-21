@@ -3,7 +3,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=25&pause=1000&color=19F805F7&center=true&vCenter=true&width=446&lines=Hey%F0%9F%91%8B+there!!+welcome%E2%9C%A8%F0%9F%A4%A9)](https://git.io/typing-svg) -->
 <!--     <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" left="20px"> -->
     
-<img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=45&pause=1000&color=19F805F7&center=true&vCenter=true&width=900&lines=+Hey%F0%9F%91%8B+there!!+welcome%E2%9C%A8%F0%9F%A4%A9" alt="welcome mssg"/><!--<br>-->
+<img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=45&pause=1000&color=dadada&center=true&vCenter=true&width=900&lines=+Hey%F0%9F%91%8B+there!!+welcome%E2%9C%A8%F0%9F%A4%A9" alt="welcome mssg"/><!--<br>-->
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br> -->
 <!--Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -13,7 +13,7 @@
 <a href="https://github.com/avi-codesmith">
     <img src="https://img.shields.io/badge/Profile-Aliya%20-19f80582.svg?style=for-the-badge" alt="Aliya Profile"> 
 </a> 
-      <span><img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70" alt="jumping.gift"></span>
+      <span><img src="https://c.tenor.co" width="70" alt="jumping.gift"></span>
  
 <!--     <img src="https://img.shields.io/badge/Profile-Avi%20-19F805F7.svg?style=for-the-badge" alt="Avi Profile"> </a>  -->
 <!--     <img src="https://komarev.com/ghpvc/?username=skAvi&color=red"/> -->
@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-    <img src="./github-progile-image3.gif" alt="green background girl gif" width="100%">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXUweHN4dmRlenZlazQ1M2I1NjNlbGE1aDlwZXVibzdhbTNteDBxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="green background girl gif" width="100%">
 </div>
 <div align="center">
 <h1>🛠️ Languages and Tools</h1>
