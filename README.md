@@ -11,7 +11,7 @@
 
 <div align="center">
 <a href="https://github.com/avi-codesmith">
-    <img src="https://img.shields.io/badge/Profile-Aliya%20-19f80582.svg?style=for-the-badge" alt="Aliya Profile"> 
+    <img src="https://img.shields.io/badge/Profile-Avi%20-19f80582.svg?style=for-the-badge" alt="Avi's Profile"> 
 </a> 
  
 <!--     <img src="https://img.shields.io/badge/Profile-Avi%20-19F805F7.svg?style=for-the-badge" alt="Avi Profile"> </a>  -->
