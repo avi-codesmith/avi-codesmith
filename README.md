@@ -40,9 +40,11 @@
 <!--  <h1>Streak's 🔥</h1>
  <br> -->
 <!--     [![GitHub Streak] (https://streak-stats.demolab.com?user=skAvi&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&mode=weekly&background=15F80009&border=19F80582&stroke=19F80582&ring=19F805F7&fire=FDFF35FD&currStreakNum=FDFF35&currStreakLabel=FDFF35&dates=19F805F7)(https://git.io/streak-stats)] -->
-![](https://github-readme-stats.vercel.app/api?username=avi-codesmith&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=avi-codesmith&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avi-codesmith&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=avi-codesmith&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avi-codesmith&theme=dark&hide_border=false" alt="GitHub Streak" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi-codesmith&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"  width="100%" height="70px">
