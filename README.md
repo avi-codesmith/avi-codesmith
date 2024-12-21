@@ -13,7 +13,6 @@
 <a href="https://github.com/avi-codesmith">
     <img src="https://img.shields.io/badge/Profile-Aliya%20-19f80582.svg?style=for-the-badge" alt="Aliya Profile"> 
 </a> 
-      <span><img src="https://c.tenor.co" width="70" alt="jumping.gift"></span>
  
 <!--     <img src="https://img.shields.io/badge/Profile-Avi%20-19F805F7.svg?style=for-the-badge" alt="Avi Profile"> </a>  -->
 <!--     <img src="https://komarev.com/ghpvc/?username=skAvi&color=red"/> -->
@@ -23,7 +22,7 @@
 <br>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXUweHN4dmRlenZlazQ1M2I1NjNlbGE1aDlwZXVibzdhbTNteDBxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="green background girl gif" width="100%" hieght="50%">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXUweHN4dmRlenZlazQ1M2I1NjNlbGE1aDlwZXVibzdhbTNteDBxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="green background girl gif" width="100%" hieght="200px">
 </div>
 <div align="center">
 <h1>🛠️ Languages and Tools</h1>
