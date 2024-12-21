@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXUweHN4dmRlenZlazQ1M2I1NjNlbGE1aDlwZXVibzdhbTNteDBxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="green background girl gif" width="100%">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXUweHN4dmRlenZlazQ1M2I1NjNlbGE1aDlwZXVibzdhbTNteDBxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="green background girl gif" width="100%" hieght="50%">
 </div>
 <div align="center">
 <h1>🛠️ Languages and Tools</h1>
