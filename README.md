@@ -10,13 +10,13 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/SkAliya/skaliya">
-    <img src="https://img.shields.io/badge/Profile-Aliya%20-19f80582.svg?style=for-the-badge" alt="Aliya Profile"> 
+<a href="https://github.com/SkAvi/skAvi">
+    <img src="https://img.shields.io/badge/Profile-Avi%20-19f80582.svg?style=for-the-badge" alt="Avi Profile"> 
 </a> 
       <span><img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70" alt="jumping.gift"></span>
  
-<!--     <img src="https://img.shields.io/badge/Profile-Aliya%20-19F805F7.svg?style=for-the-badge" alt="Aliya Profile"> </a>  -->
-<!--     <img src="https://komarev.com/ghpvc/?username=skaliya&color=red"/> -->
+<!--     <img src="https://img.shields.io/badge/Profile-Avi%20-19F805F7.svg?style=for-the-badge" alt="Avi Profile"> </a>  -->
+<!--     <img src="https://komarev.com/ghpvc/?username=skAvi&color=red"/> -->
 </div>
 
 <!-- ![it's me](./) -->
@@ -40,22 +40,22 @@
 <div align="center">
 <!--  <h1>Streak's 🔥</h1>
  <br> -->
-<!--     [![GitHub Streak] (https://streak-stats.demolab.com?user=skaliya&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&mode=weekly&background=15F80009&border=19F80582&stroke=19F80582&ring=19F805F7&fire=FDFF35FD&currStreakNum=FDFF35&currStreakLabel=FDFF35&dates=19F805F7)(https://git.io/streak-stats)] -->
+<!--     [![GitHub Streak] (https://streak-stats.demolab.com?user=skAvi&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&mode=weekly&background=15F80009&border=19F80582&stroke=19F80582&ring=19F805F7&fire=FDFF35FD&currStreakNum=FDFF35&currStreakLabel=FDFF35&dates=19F805F7)(https://git.io/streak-stats)] -->
 
-<img alt="Aliya's streak" src="https://streak-stats.demolab.com?user=skaliya&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&card_width=460&background=15F80009&border=19F80582&stroke=19F80582&ring=19F805F7&fire=19F805FD&currStreakNum=FDFF35&currStreakLabel=FDFF35&mode=weekly">
+<img alt="Avi's streak" src="https://streak-stats.demolab.com?user=skAvi&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&card_width=460&background=15F80009&border=19F80582&stroke=19F80582&ring=19F805F7&fire=19F805FD&currStreakNum=FDFF35&currStreakLabel=FDFF35&mode=weekly">
 
 </div>
 <br>
 <div align="center">
 <!--  <h1>Stat's 🌟</h1>
  <br> -->
-<img alt="Aliya's stats" src="https://github-readme-stats.vercel.app/api?username=skaliya&show_icons=true&theme=chartreuse-dark&border_color=19f80582&icon_color=15f800b6&bg_color=15f80009&custom_title=Aliya's_Github_stats&card_width=100&hide=issues">
+<img alt="Avi's stats" src="https://github-readme-stats.vercel.app/api?username=skAvi&show_icons=true&theme=chartreuse-dark&border_color=19f80582&icon_color=15f800b6&bg_color=15f80009&custom_title=Avi's_Github_stats&card_width=100&hide=issues">
 </div>
 <br>
 <div align="center">
 <!--  <h1>Top Used Language's 📈</h1>
  <br> -->
-<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaliya&theme=chartreuse-dark&layout=compact&card_width=300&border_color=19f80582&bg_color=15f80009">
+<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skAvi&theme=chartreuse-dark&layout=compact&card_width=300&border_color=19f80582&bg_color=15f80009">
 </div>
 
 <p align="center">
