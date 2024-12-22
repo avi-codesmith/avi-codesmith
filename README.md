@@ -26,12 +26,10 @@
 <div align="center">
   <!-- Languages and Tools Section -->
   <h1>🛠️ Languages and Tools</h1>
-  <details open>
     <h2>🖼️ Frontend</h2>
     <img alt="html logo" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&theme=dark&logoColor=white">
     <img alt="css logo" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&theme=dark&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&theme=dark&logoColor=white" alt="JavaScript Badge" />
-  </details>
 </div>
 
 <br>
