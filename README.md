@@ -27,7 +27,7 @@
 <div align="center">
 <h1>🛠️ Languages and Tools</h1>
 <details open>
-    <summary><h2>🖼️ Frontend</h2></summary>
+    <h2>🖼️ Frontend</h2>
     <img alt="html logo" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&theme=dark&logoColor=white">
     <img alt="css logo" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&theme=dark&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&theme=dark&logoColor=white" alt="JavaScript Badge" />
@@ -35,10 +35,10 @@
 
 </div>
 <br>
-<div aling="center">
-<summary><h1>📊 Statistics</h1></summary>
+<div style="text-align: center;">
+  <h1>📊 Statistics</h1>
 </div>
-    <img alt="DIMFLIX-OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=avi-codesmith&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+<img alt="DIMFLIX-OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=avi-codesmith&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 
 <br>
 <div align="center">
