@@ -26,7 +26,6 @@
 </div>
 <div align="center">
 <h1>🛠️ Languages and Tools</h1>
-<br>
 <details open>
     <summary><h2>🖼️ Frontend</h2></summary>
     <img alt="html logo" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -49,6 +48,5 @@
 
 
 
-<h1>Thank You For Visiting</h1>
-<br>
+<h1>Thank You For Visiting 🙌🏻</h1>
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" height="20%">
