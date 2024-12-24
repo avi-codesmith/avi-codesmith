@@ -42,9 +42,6 @@
 
 <br>
 
-<img src="![Black And White Simple Personal Business Card](https://github.com/user-attachments/assets/a227916c-5a99-44ba-ab23-701a4d2c7049)
-">
-
 <div align="center">
   <!-- Streak Section -->
   <img src="https://github-readme-stats.vercel.app/api?username=avi-codesmith&hide_border=false&include_all_commits=false&count_private=false&theme=dark" alt="GitHub Stats" style="width: 450px; margin-bottom: 20px;" />
