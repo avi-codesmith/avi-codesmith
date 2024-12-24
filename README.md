@@ -42,6 +42,11 @@
 
 <br>
 
+<a href="https://github.com/avi-codesmith/AUI-LIB">
+  <h1>Click to Explore AUI</h1>
+  ![Black And White Simple Personal Business Card](https://github.com/user-attachments/assets/0cff70ca-0cbd-4fe1-bf37-05e247422345)
+</a>
+
 <div align="center">
   <!-- Streak Section -->
   <img src="https://github-readme-stats.vercel.app/api?username=avi-codesmith&hide_border=false&include_all_commits=false&count_private=false&theme=dark" alt="GitHub Stats" style="width: 450px; margin-bottom: 20px;" />
