@@ -42,10 +42,8 @@
 
 <br>
 
-<a href="https://github.com/avi-codesmith/AUI-LIB">
-  <h1>Click to Explore AUI</h1>
-  ![Black And White Simple Personal Business Card](https://github.com/user-attachments/assets/0cff70ca-0cbd-4fe1-bf37-05e247422345)
-</a>
+<img src="![Black And White Simple Personal Business Card](https://github.com/user-attachments/assets/a227916c-5a99-44ba-ab23-701a4d2c7049)
+">
 
 <div align="center">
   <!-- Streak Section -->
