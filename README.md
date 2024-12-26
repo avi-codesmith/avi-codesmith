@@ -12,9 +12,12 @@
 <div align="center">
   <!-- Profile Link -->
   <a href="https://github.com/avi-codesmith">
-    <img src="https://img.shields.io/badge/Profile-Avi%20-19f80582.svg?style=for-the-badge" alt="Avi's Profile"> 
+    <img src="https://img.shields.io/badge/Profile-Avi%20-19f80582.svg?style=for-the-badge&labelColor=007ec6" alt="Avi's Profile"> 
   </a> 
 </div>
+
+<br>
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=avi-codesmith&color=blue&style=for-the-badge" alt="Profile Views" />
