@@ -16,6 +16,8 @@
   </a> 
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=avi-codesmith&color=blue" alt="Profile Views" />
+
 <br>
 
 <div align="center">
