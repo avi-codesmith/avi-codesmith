@@ -19,7 +19,13 @@
   <a href="https://github.com/avi-codesmith">
     <img src="https://img.shields.io/badge/Profile-Avi%20-FFFFFF.svg?style=for-the-badge&labelColor=007ec6&color=555" alt="Avi's Profile">
   </a>
+  
+  <br>
+  <br>
+  
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZnYW8zYXc4MjV3eHEwejhkOHl0OTM1OXlyMjVuOWFnYzJuOTR4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Exciting GIF" />
 </div>
+
 
 <div align="center">
   <!-- Languages and Tools Section -->
