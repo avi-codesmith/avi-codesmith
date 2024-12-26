@@ -10,18 +10,17 @@
 </div>
 
 <div align="center">
+  <!-- Profile Counter -->
+  <img src="https://komarev.com/ghpvc/?username=avi-codesmith&color=007ec6&style=for-the-badge" alt="Profile Views" />
+
+  <br>
+
   <!-- Profile Link -->
   <a href="https://github.com/avi-codesmith">
-    <img src="https://img.shields.io/badge/Profile-Avi%20-19f80582.svg?style=for-the-badge&labelColor=007ec6" alt="Avi's Profile"> 
-  </a> 
+    <img src="https://img.shields.io/badge/Profile-Avi%20-007ec6.svg?style=for-the-badge&labelColor=007ec6&color=FFFFFF" alt="Avi's Profile">
+  </a>
 </div>
 
-<br>
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=avi-codesmith&color=blue&style=for-the-badge" alt="Profile Views" />
-</div>
 
 <br>
 
