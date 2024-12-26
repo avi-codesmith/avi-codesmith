@@ -16,7 +16,9 @@
   </a> 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=avi-codesmith&color=blue" alt="Profile Views" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=avi-codesmith&color=blue&style=for-the-badge" alt="Profile Views" />
+</div>
 
 <br>
 
