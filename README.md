@@ -12,21 +12,13 @@
 <div align="center">
   <!-- Profile Counter -->
   <img src="https://komarev.com/ghpvc/?username=avi-codesmith&color=007ec6&style=for-the-badge" alt="Profile Views" />
-
-  <br>
+  
+<br>
 
   <!-- Profile Link -->
   <a href="https://github.com/avi-codesmith">
-    <img src="https://img.shields.io/badge/Profile-Avi%20-007ec6.svg?style=for-the-badge&labelColor=007ec6&color=FFFFFF" alt="Avi's Profile">
+    <img src="https://img.shields.io/badge/Profile-Avi%20-FFFFFF.svg?style=for-the-badge&labelColor=007ec6&color=555" alt="Avi's Profile">
   </a>
-</div>
-
-
-<br>
-
-<div align="center">
-  <!-- GIF Section -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXUweHN4dmRlenZlazQ1M2I1NjNlbGE1aDlwZXVibzdhbTNteDBxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="green background girl gif" width="50%">
 </div>
 
 <div align="center">
