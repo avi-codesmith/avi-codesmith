@@ -8,7 +8,6 @@
 
 
 <div align="center">
-![Happy New Year](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwwamZjZzRhanh2NTZ5bm1lNGFxcjQ5ZzVpaDduZWw1aGt1ZXRrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JlW6idw7XFLuxW53Ep/giphy.webp)
   <!-- Profile Counter with rounded corners and shadow -->
   <img src="https://komarev.com/ghpvc/?username=avi-codesmith&color=007ec6&style=for-the-badge&labelColor=007ec6" alt="Profile Views" style="border-radius: 15px; box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.2);" />
     &nbsp; &nbsp;
@@ -24,6 +23,7 @@
 </div>
 
 <div align="center">
+![Happy New Year](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwwamZjZzRhanh2NTZ5bm1lNGFxcjQ5ZzVpaDduZWw1aGt1ZXRrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JlW6idw7XFLuxW53Ep/giphy.webp)
   <!-- Languages and Tools Section with shadows and rounded corners -->
   <h1>🛠️ Languages and Tools</h1>
   <h2>🇫rontend</h2>
