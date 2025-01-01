@@ -5,7 +5,10 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-
+<div align="center">
+  <!-- Centered Happy New Year GIF -->
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwwamZjZzRhanh2NTZ5bm1lNGFxcjQ5ZzVpaDduZWw1aGt1ZXRrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JlW6idw7XFLuxW53Ep/giphy.webp" alt="Happy New Year" />
+</div>
 
 <div align="center">
   <!-- Profile Counter with rounded corners and shadow -->
@@ -23,7 +26,6 @@
 </div>
 
 <div align="center">
-![Happy New Year](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwwamZjZzRhanh2NTZ5bm1lNGFxcjQ5ZzVpaDduZWw1aGt1ZXRrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JlW6idw7XFLuxW53Ep/giphy.webp)
   <!-- Languages and Tools Section with shadows and rounded corners -->
   <h1>🛠️ Languages and Tools</h1>
   <h2>🇫rontend</h2>
