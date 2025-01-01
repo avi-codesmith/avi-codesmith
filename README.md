@@ -5,7 +5,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-![Happy New Year](https://your-image-url.gif)
+![Happy New Year](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwwamZjZzRhanh2NTZ5bm1lNGFxcjQ5ZzVpaDduZWw1aGt1ZXRrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JlW6idw7XFLuxW53Ep/giphy.webp)
 
 
 <div align="center">
