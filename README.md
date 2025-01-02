@@ -15,11 +15,14 @@
     <img src="https://img.shields.io/badge/Profile-Avi%20-555.svg?style=for-the-badge&labelColor=007ec6" alt="Avi's Profile" style="border-radius: 15px; box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.2);">
   </a>
   
-  <br><br>
+  <br>
+  <br>
   
   <!-- Fun GIF with rounded corners -->
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZnYW8zYXc4MjV3eHEwejhkOHl0OTM1OXlyMjVuOWFnYzJuOTR4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Exciting GIF" style="border-radius:15px; box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.2);" />
 </div>
+
+<br>
 
 <div align="center">
   <!-- Languages and Tools Section with shadows and rounded corners -->
