@@ -4,15 +4,8 @@
   <!-- Line -->
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-
-<div align="center">
-  <!-- Centered Happy New Year GIF -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwwamZjZzRhanh2NTZ5bm1lNGFxcjQ5ZzVpaDduZWw1aGt1ZXRrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JlW6idw7XFLuxW53Ep/giphy.webp" alt="Happy New Year" />
-</div>
-
 <br>
 <br>
-
 <div align="center">
   <!-- Profile Counter with rounded corners and shadow -->
   <img src="https://komarev.com/ghpvc/?username=avi-codesmith&color=007ec6&style=for-the-badge&labelColor=007ec6" alt="Profile Views" style="border-radius: 15px; box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.2);" />
