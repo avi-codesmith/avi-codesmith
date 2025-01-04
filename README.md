@@ -24,7 +24,10 @@
 
 <br>
 
-![Black And White Simple Personal Business Card](https://github.com/user-attachments/assets/03fb4fc0-39c8-4120-8f08-8d44d3ebe234)
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; background: #f9f9f9;">
+    <img src="![Uploading Black And White Simple Personal Business Card.gif…]()
+" alt="Centered GIF" style="max-width: 100%; height: auto;">
+</div>
 
 <br>
 
