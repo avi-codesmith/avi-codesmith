@@ -24,6 +24,10 @@
 
 <br>
 
+![Black And White Simple Personal Business Card](https://github.com/user-attachments/assets/03fb4fc0-39c8-4120-8f08-8d44d3ebe234)
+
+<br>
+
 <div align="center">
   <!-- Languages and Tools Section with shadows and rounded corners -->
   <h1>🛠️ Languages and Tools</h1>
