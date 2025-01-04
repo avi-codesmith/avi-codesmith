@@ -23,12 +23,9 @@
 </div>
 
 <br>
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; background: #f9f9f9;">
-    <img src="![Uploading Black And White Simple Personal Business Card.gif…]()
-" alt="Centered GIF" style="max-width: 100%; height: auto;">
+<div align="center">
+![Black And White Simple Personal Business Card](https://github.com/user-attachments/assets/04de11ee-167e-4c90-985b-081b2c9a4a71)
 </div>
-
 <br>
 
 <div align="center">
