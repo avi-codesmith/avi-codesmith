@@ -22,6 +22,9 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZnYW8zYXc4MjV3eHEwejhkOHl0OTM1OXlyMjVuOWFnYzJuOTR4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Exciting GIF" style="border-radius:15px; box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.2);" />
   
   <br>
+  <br>
+  <br>
+
   
 ![Black And White Simple Personal Business Card](https://github.com/user-attachments/assets/04de11ee-167e-4c90-985b-081b2c9a4a71)
 
