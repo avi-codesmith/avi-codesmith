@@ -25,9 +25,9 @@
   <br>
   <br>
   
-  [![Black And White Simple Personal Business Card (1)](https://github.com/user-attachments/assets/4620e518-acc8-4cc5-ac86-ddb607b2baf4)]([https://guess-the-number345.netlify.app/](https://canyouguessnumber.netlify.app/))
+  [![Black And White Simple Personal Business Card (1)](https://github.com/user-attachments/assets/4620e518-acc8-4cc5-ac86-ddb607b2baf4)]((https://canyouguessnumber.netlify.app/))
 <br>
-## [🚀 Click to Play]([https://guess-the-number345.netlify.app/](https://canyouguessnumber.netlify.app/))
+## [🚀 Click to Play]((https://canyouguessnumber.netlify.app/))
 </div>
 
 <br>
