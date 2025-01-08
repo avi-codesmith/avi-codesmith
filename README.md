@@ -25,9 +25,9 @@
   <br>
   <br>
   
-[![Black And White Simple Personal Business Card](https://github.com/user-attachments/assets/04de11ee-167e-4c90-985b-081b2c9a4a71)](https://github.com/avi-codesmith/AUI-LIB)
+  [![Black And White Simple Personal Business Card (1)](https://github.com/user-attachments/assets/4620e518-acc8-4cc5-ac86-ddb607b2baf4)](https://guess-the-number345.netlify.app/)
 <br>
-## [🚀 Click to Explore](https://github.com/avi-codesmith/AUI-LIB)
+## [🚀 Click to Play](https://guess-the-number345.netlify.app/)
 </div>
 
 <br>
