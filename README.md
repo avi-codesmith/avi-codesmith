@@ -24,10 +24,9 @@
   <br>
   <br>
   <br>
-  
-[![Black And White Simple Personal Business Card (1)](https://github.com/user-attachments/assets/49ec05e9-c173-4f8f-9c0b-c53732542143)](https://canyouguessnumber.netlify.app/)
+  [![Black And White Simple Personal Business Card (2)](https://github.com/user-attachments/assets/2302c869-ab79-4a0c-8cec-d671881db2b2)](https://pig-game-2v2.netlify.app/)
 <br>
-## [🎮 Click to Play!](https://canyouguessnumber.netlify.app/)
+## [🎮 Click to Play!](https://pig-game-2v2.netlify.app/)
 
 </div>
 
