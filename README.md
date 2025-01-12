@@ -25,11 +25,11 @@
   <br>
   <br>
   
-[![Black And White Simple Personal Business Card (3)](https://github.com/user-attachments/assets/7efff63c-5388-4d07-8caa-1edd5060c0ee)](https://rock-paper-scissorswithai.netlify.app/)
+[![Black And White Simple Personal Business Card (3)](https://github.com/user-attachments/assets/7efff63c-5388-4d07-8caa-1edd5060c0ee)](https://rock-paper-scissorwithai.netlify.app/)
 
 <br>
 
-## [🎮 Click to Play!](https://rock-paper-scissorswithai.netlify.app/)
+## [🎮 Click to Play!](https://rock-paper-scissorwithai.netlify.app/)
 
 </div>
 
