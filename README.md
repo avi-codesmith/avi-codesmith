@@ -31,9 +31,6 @@
 ## [🎮 Click to Play!](https://rock-paper-scissorwithai.netlify.app/)
 
 </div>
-
-<br>
-
 <div align="center">
   <!-- Languages and Tools Section with shadows and rounded corners -->
   <h1>🛠️ Languages and Tools</h1>
