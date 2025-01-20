@@ -25,7 +25,7 @@
   <br>
   <br>
   
-  [![Black And White Simple Personal Business Card (2)](https://github.com/user-attachments/assets/a1291d79-1b22-419e-bfbc-61a8a54e36db)](https://pig-game-2v2.netlify.app/)4
+  [![Black And White Simple Personal Business Card (2)](https://github.com/user-attachments/assets/a1291d79-1b22-419e-bfbc-61a8a54e36db)](https://pig-game-2v2.netlify.app/)
   
 ## [🎮 Click to Play!](https://pig-game-2v2.netlify.app/)
 
