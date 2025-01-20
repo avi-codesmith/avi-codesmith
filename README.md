@@ -24,11 +24,8 @@
   <br>
   <br>
   <br>
-  
-[![Black And White Simple Personal Business Card (3)](https://github.com/user-attachments/assets/7efff63c-5388-4d07-8caa-1edd5060c0ee)](https://rock-paper-scissorwithai.netlify.app/)
-
-
-## [🎮 Click to Play!](https://rock-paper-scissorwithai.netlify.app/)
+  [![Black And White Simple Personal Business Card (2)](https://github.com/user-attachments/assets/a1291d79-1b22-419e-bfbc-61a8a54e36db)](https://pig-game-2v2.netlify.app/)
+## [🎮 Click to Play!](https://pig-game-2v2.netlify.app/)
 
 </div>
 <div align="center">
