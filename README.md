@@ -8,8 +8,6 @@
   
 ![](https://github-profile-trophy.vercel.app/?username=avi-codesmith&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
-
-<br>
 <br>
 <div align="center">
   <!-- Profile Counter with rounded corners and shadow -->
