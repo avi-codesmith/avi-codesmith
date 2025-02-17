@@ -32,6 +32,11 @@
   
 ## [🎮 Click to Play!](https://pig-game-2v2.netlify.app/)
 
+<br>
+[![Black And White Simple Personal Business Card (4)](https://github.com/user-attachments/assets/94af67fa-9e7e-4f43-811e-9778a872c4cb)](https://js-simple-snake-game.netlify.app/)
+
+##[🎮 Click to Play!](https://js-simple-snake-game.netlify.app/)
+
 </div>
 <div align="center">
   <!-- Languages and Tools Section with shadows and rounded corners -->
