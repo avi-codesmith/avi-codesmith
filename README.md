@@ -6,7 +6,9 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 <div align="center">
-  ![giphy](https://github.com/user-attachments/assets/a0baeb70-c0f3-406e-8114-4bffd82d25ae)
+  
+![](https://github-profile-trophy.vercel.app/?username=avi-codesmith&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  
 </div>
 <br>
 <div align="center">
@@ -22,7 +24,9 @@
   <br>
   
   <!-- Fun GIF with rounded corners -->
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZnYW8zYXc4MjV3eHEwejhkOHl0OTM1OXlyMjVuOWFnYzJuOTR4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Exciting GIF" style="border-radius:15px; box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.2);" />
+  
+  ![giphy](https://github.com/user-attachments/assets/dc5d9af8-42b5-485a-930c-3cd9e5c26f45)
+
   
   <br>
   <br>
