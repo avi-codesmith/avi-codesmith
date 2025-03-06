@@ -28,24 +28,25 @@
   <br>
   <br>
   <br>
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center">
-      <a href="https://pig-game-2v2.netlify.app/">
+    <td align="center" style="border: none;">
+      <a href="https://pig-game-2v2.netlify.app/" style="text-decoration: none;">
         <img src="https://github.com/user-attachments/assets/a1291d79-1b22-419e-bfbc-61a8a54e36db" alt="Pig Game" width="300"/>
+        <br>
+        <span style="font-size: 18px; font-weight: bold; ">🎮 Click to Play!</span>
       </a>
-      <br>
-      <a href="https://pig-game-2v2.netlify.app/"><strong>🎮 Click to Play!</strong></a>
     </td>
-    <td align="center">
-      <a href="https://js-simple-snake-game.netlify.app/">
+    <td align="center" style="border: none;">
+      <a href="https://js-simple-snake-game.netlify.app/" style="text-decoration: none;">
         <img src="https://github.com/user-attachments/assets/94af67fa-9e7e-4f43-811e-9778a872c4cb" alt="Snake Game" width="300"/>
+        <br>
+        <span style="font-size: 18px; font-weight: bold;">🎮 Click to Play!</span>
       </a>
-      <br>
-      <a href="https://js-simple-snake-game.netlify.app/"><strong>🎮 Click to Play!</strong></a>
     </td>
   </tr>
 </table>
+
 
 
 
