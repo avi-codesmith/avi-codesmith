@@ -1,3 +1,4 @@
+
 <div align="center">
   <!-- Welcome Section with rounded image -->
   <img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=45&pause=1000&center=true&vCenter=true&width=900&lines=+Hey%F0%9F%91%8B+there!!+welcome%E2%9C%A8%F0%9F%A4%A9" alt="welcome message" />
@@ -28,13 +29,28 @@
   <br>
   <br>
   
-  [![Black And White Simple Personal Business Card (2)](https://github.com/user-attachments/assets/a1291d79-1b22-419e-bfbc-61a8a54e36db)](https://pig-game-2v2.netlify.app/)
-  
-## [🎮 Click to Play!](https://pig-game-2v2.netlify.app/)
+ <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-[![Black And White Simple Personal Business Card (4)](https://github.com/user-attachments/assets/94af67fa-9e7e-4f43-811e-9778a872c4cb)](https://js-simple-snake-game.netlify.app/)
+  <div align="center">
+    <a href="https://pig-game-2v2.netlify.app/">
+      <img src="https://github.com/user-attachments/assets/a1291d79-1b22-419e-bfbc-61a8a54e36db" 
+           alt="Pig Game" width="300"/>
+    </a>
+    <br>
+    <a href="https://pig-game-2v2.netlify.app/"><strong>🎮 Click to Play!</strong></a>
+  </div>
 
-## [🎮 Click to Play!](https://js-simple-snake-game.netlify.app/)
+  <div align="center">
+    <a href="https://js-simple-snake-game.netlify.app/">
+      <img src="https://github.com/user-attachments/assets/94af67fa-9e7e-4f43-811e-9778a872c4cb" 
+           alt="Snake Game" width="300"/>
+    </a>
+    <br>
+    <a href="https://js-simple-snake-game.netlify.app/"><strong>🎮 Click to Play!</strong></a>
+  </div>
+
+</div>
+
 
 </div>
 <div align="center">
