@@ -28,28 +28,25 @@
   <br>
   <br>
   <br>
-  
- <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://pig-game-2v2.netlify.app/">
+        <img src="https://github.com/user-attachments/assets/a1291d79-1b22-419e-bfbc-61a8a54e36db" alt="Pig Game" width="300"/>
+      </a>
+      <br>
+      <a href="https://pig-game-2v2.netlify.app/"><strong>🎮 Click to Play!</strong></a>
+    </td>
+    <td align="center">
+      <a href="https://js-simple-snake-game.netlify.app/">
+        <img src="https://github.com/user-attachments/assets/94af67fa-9e7e-4f43-811e-9778a872c4cb" alt="Snake Game" width="300"/>
+      </a>
+      <br>
+      <a href="https://js-simple-snake-game.netlify.app/"><strong>🎮 Click to Play!</strong></a>
+    </td>
+  </tr>
+</table>
 
-  <div align="center">
-    <a href="https://pig-game-2v2.netlify.app/">
-      <img src="https://github.com/user-attachments/assets/a1291d79-1b22-419e-bfbc-61a8a54e36db" 
-           alt="Pig Game" width="300"/>
-    </a>
-    <br>
-    <a href="https://pig-game-2v2.netlify.app/"><strong>🎮 Click to Play!</strong></a>
-  </div>
-
-  <div align="center">
-    <a href="https://js-simple-snake-game.netlify.app/">
-      <img src="https://github.com/user-attachments/assets/94af67fa-9e7e-4f43-811e-9778a872c4cb" 
-           alt="Snake Game" width="300"/>
-    </a>
-    <br>
-    <a href="https://js-simple-snake-game.netlify.app/"><strong>🎮 Click to Play!</strong></a>
-  </div>
-
-</div>
 
 
 </div>
