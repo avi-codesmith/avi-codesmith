@@ -47,19 +47,8 @@
       <br>
       <a href="https://js-playable-piano.netlify.app/"><strong>🎮 Click to Play!</strong></a>
     </td>
-    <td align="center">
-      <a href="https://js-simple-snake-game.netlify.app/">
-        <img src="https://github.com/user-attachments/assets/1a7aa6c7-c697-4ba6-8607-d95e3b92a9d8" alt="Snake Game" width="300"/>
-      </a>
-      <br>
-      <a href="https://js-simple-snake-game.netlify.app/"><strong>🎮 Click to Play!</strong></a>
-    </td>
   </tr>
 </table>
-
-
-
-
 
 </div>
 <div align="center">
