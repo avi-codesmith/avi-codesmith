@@ -6,8 +6,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 <div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=avi-codesmith&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  ![giphy](https://github.com/user-attachments/assets/a0baeb70-c0f3-406e-8114-4bffd82d25ae)
 </div>
 <br>
 <div align="center">
