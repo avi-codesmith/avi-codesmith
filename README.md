@@ -34,13 +34,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://pig-game-2v2.netlify.app/">
-        <img src="https://github.com/user-attachments/assets/1749f975-22ce-4c83-b75b-94d57a257c04" alt="Pig Game" width="300"/>
-      </a>
-      <br>
-      <a href="https://pig-game-2v2.netlify.app/"><strong>🎮 Click to Play!</strong></a>
-    </td>
-    <td align="center">
       <a href="https://js-simple-snake-game.netlify.app/">
         <img src="https://github.com/user-attachments/assets/1a7aa6c7-c697-4ba6-8607-d95e3b92a9d8" alt="Snake Game" width="300"/>
       </a>
