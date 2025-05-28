@@ -51,7 +51,7 @@
   <img alt="html logo" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&theme=dark&logoColor=white&border-radius=10px; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);" />
   <img alt="css logo" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&theme=dark&logoColor=white&border-radius=10px; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&theme=dark&logoColor=white&border-radius=10px; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);" alt="JavaScript Badge" />
-  ![download](https://github.com/user-attachments/assets/4e945e90-e6bb-49c8-904d-324c006a2ef4)
+<img src="https://github.com/user-attachments/assets/4e945e90-e6bb-49c8-904d-324c006a2ef4" alt="Image">
 </div>
 
 <br>
