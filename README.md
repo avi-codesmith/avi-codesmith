@@ -38,7 +38,7 @@
         <img src="https://github.com/user-attachments/assets/52923f24-81af-4d7f-bd1f-ca7de013365b" alt="Snake Game" width="300"/>
       </a>
       <br>
-      <a href="https://js-simple-snake-game.netlify.app/"><strong>🎮 Click to Play!</strong></a>
+      <a href="https://js-simple-snake-game.netlify.app/"><strong>Visit Now!</strong></a>
     </td>
   </tr>
 </table>
