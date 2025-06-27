@@ -56,6 +56,7 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="Terminal" src="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=terminal&logoColor=white" />  
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <br>
 <!-- <img src="https://github.com/user-attachments/assets/4e945e90-e6bb-49c8-904d-324c006a2ef4" alt="Image"> -->
 </div>
