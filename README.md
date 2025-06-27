@@ -22,28 +22,15 @@
   
   <br>
   <br>
-  
-  <!-- Fun GIF with rounded corners -->
-  
-  ![giphy](https://github.com/user-attachments/assets/dc5d9af8-42b5-485a-930c-3cd9e5c26f45)
 
-  
-  <br>
-  <br>
-  <br>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://aviox.netlify.app/">
-        <img src="https://github.com/user-attachments/assets/52923f24-81af-4d7f-bd1f-ca7de013365b" alt="Snake Game" width="300"/>
-      </a>
-      <br>
-      <a href="https://js-simple-snake-game.netlify.app/"><strong>Visit Now!</strong></a>
-    </td>
-  </tr>
-</table>
+![giphy](https://github.com/user-attachments/assets/ff759ccf-1b40-4762-b5c9-1d96c8af08be)
+
 
 </div>
+
+<br>
+<br>
+
 <div align="center">
   <!-- Languages and Tools Section with shadows and rounded corners -->
   <h1>🛠️ Languages, Tools and Skills</h1>
