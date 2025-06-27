@@ -46,15 +46,14 @@
 </div>
 <div align="center">
   <!-- Languages and Tools Section with shadows and rounded corners -->
-  <h1>🛠️ Languages,Tools and Skills</h1>
-  <h2>🇫rontend</h2>
+  <h1>🛠️ Languages, Tools and Skills</h1>
   <img alt="html logo" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="css logo" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="tailwind css logo" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="javascript logo" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="canvas logo" src="https://img.shields.io/badge/Canvas_API-000000?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img alt="Terminal" src="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=terminal&logoColor=white" />  
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <br>
 <!-- <img src="https://github.com/user-attachments/assets/4e945e90-e6bb-49c8-904d-324c006a2ef4" alt="Image"> -->
