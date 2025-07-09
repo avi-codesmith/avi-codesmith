@@ -62,8 +62,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi-codesmith&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=dark" alt="Top Languages" style="width: 450px; margin-bottom: 30px; border-radius: 15px; box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.2);" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <!-- Thank You Section -->
-  <h1>🙌🏻 Thank You For Visiting</h1>
+<!--   <h1>🙌🏻 Thank You For Visiting</h1>
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100vw" height="100vh">
-</div>
+</div> -->
