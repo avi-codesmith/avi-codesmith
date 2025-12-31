@@ -17,10 +17,6 @@
   </a>
   
   <br>
-  <br>
-
-![giphy](https://github.com/user-attachments/assets/ff759ccf-1b40-4762-b5c9-1d96c8af08be)
-
 
 </div>
 
