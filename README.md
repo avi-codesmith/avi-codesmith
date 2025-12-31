@@ -6,6 +6,13 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+<div align="center">
+  
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=avi-codesmith&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
 <br>
 <div align="center">
   <!-- Profile Counter with rounded corners and shadow -->
