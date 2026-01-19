@@ -37,7 +37,7 @@
   <img alt="css logo" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <!-- <img alt="tailwind css logo" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> -->
   <img alt="javascript logo" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="React logo" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="React logo" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" /> 
   <!-- <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> -->
   <br>
 <!-- <img src="https://github.com/user-attachments/assets/4e945e90-e6bb-49c8-904d-324c006a2ef4" alt="Image"> -->
