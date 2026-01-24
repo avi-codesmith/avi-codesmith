@@ -8,8 +8,10 @@
 
 <div align="center">
   
-## 🏆GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=avi-codesmith&theme=onedark)](https://github.com/avi-codesmith/github-profile-trophy)
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=avi-codesmith&theme=onedark&no-frame=true&row=1&column=6)
+
 
 </div>
 
