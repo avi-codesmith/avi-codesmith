@@ -9,7 +9,7 @@
 <div align="center">
   
 ## 🏆GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=avi-codesmith&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=avi-codesmith&theme=onedark)](https://github.com/avi-codesmith/github-profile-trophy)
 
 </div>
 
