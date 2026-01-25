@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&center=true&vCenter=true&width=800&lines=Hey+there+👋+Welcome+to+my+GitHub" />
+# Hey there👋 welcome!"
 
 <br/>
 
