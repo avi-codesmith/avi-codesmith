@@ -15,10 +15,10 @@
 <div align="center">
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
-![React-Redux](https://img.shields.io/badge/ReactRedux-764ABC?style=flat&logo=redux&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
+![ReactRedux](https://img.shields.io/badge/ReactRedux-764ABC?style=flat&logo=redux&logoColor=white)
 
 </div>
 
