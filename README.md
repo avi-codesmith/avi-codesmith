@@ -28,11 +28,12 @@
 
 <div align="center">
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avi-codesmith&layout=compact&theme=dark&hide_border=true)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=avi-codesmith&show_icons=true&theme=dark&hide_border=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=avi-codesmith&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avi-codesmith&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
