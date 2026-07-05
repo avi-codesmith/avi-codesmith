@@ -45,6 +45,20 @@
 🟢 **[VIEW CERTIFICATE](https://www.hackerrank.com/certificates/8064e0b0922c)**
 
 </td>
+
+</td>
+
+<td align="center">
+
+<a href="https://www.udemy.com/certificate/">
+  <img height="250" alt="UC-7a6fb144-7ab9-462f-9a54-f11230773b2a (2)_page-0001" src="https://github.com/user-attachments/assets/1f29f377-29c7-4e36-b504-2df12a5544a2" />
+</a>
+
+<br><br>
+
+🟢 **[VIEW CERTIFICATE](https://www.udemy.com/certificate/)**
+
+</td>
 </tr>
 </table>
 
