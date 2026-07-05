@@ -25,21 +25,31 @@
 
 ---
 
-<div align="center">
-  
-<a href="https://www.testdome.com/certificates/f5a877d695b446f7ae3c85f4e640e697" target="_blank">
-  <img width="500" alt="MySQL certificate (advance)" src="https://github.com/user-attachments/assets/d0201ab5-c315-4491-a34a-47987abc1869" />
+## 🏆 Certification
+
+<table align="center">
+<tr>
+<td align="center">
+
+<a href="https://www.testdome.com/certificates/f5a877d695b446f7ae3c85f4e640e697">
+  <img width="350" alt="MySQL Certificate (Advanced)" src="https://github.com/user-attachments/assets/d0201ab5-c315-4491-a34a-47987abc1869" />
 </a>
 
 🟢 **[VIEW CERTIFICATE](https://www.testdome.com/certificates/f5a877d695b446f7ae3c85f4e640e697)**
 
-<a href="https://www.hackerrank.com/certificates/8064e0b0922c" target="_blank">
-<img width="500" alt="MySQL certificate (basic)" src="https://github.com/user-attachments/assets/d1eeb7b1-6f42-466b-ad81-785482c2eea5" />
+</td>
+
+<td align="center">
+
+<a href="https://www.hackerrank.com/certificates/8064e0b0922c">
+  <img width="350" alt="MySQL Certificate (Basic)" src="https://github.com/user-attachments/assets/d1eeb7b1-6f42-466b-ad81-785482c2eea5" />
 </a>
 
 🟢 **[VIEW CERTIFICATE](https://www.hackerrank.com/certificates/8064e0b0922c)**
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
